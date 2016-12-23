@@ -1,0 +1,53 @@
+html {
+  position: relative;
+  float: left;
+}
+
+body {
+  background-image: url("../images/22c659d26e320a5efbd4295d0de48044.jpg");
+}
+
+h1, h2, h3, h4, h5, h6, p, div {
+  padding-left: 20px;
+}
+
+h1, h2, h3, h4, h5, h6, p, b, span {
+  color: whitesmoke;
+}
+
+p {
+  display: inline-block;
+}
+
+table {
+  width: 100%;
+}
+
+td {
+  margin: 5px;
+}
+
+p, a, span {
+  font-size: 20px;
+}
+
+input {
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+a:link, a:visited {
+  color: whitesmoke;
+}
+
+a:hover {
+  color: blue;
+}
+
+a:active {
+  color: #303030;
+}
+
+span.contact {
+  font-size: 30px;
+}
